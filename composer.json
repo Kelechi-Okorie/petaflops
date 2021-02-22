@@ -3,6 +3,8 @@
     "description": "Scan URLs from a CSV file and report inaccessible URLs",
     "keywords": ["url", "scanner", "csv"],
     "homepage": "http://example.com",
+    "minimum-stability": "stable",
+    "version": "0.1.0",
     "license": "MIT",
     "authors": [
         {
